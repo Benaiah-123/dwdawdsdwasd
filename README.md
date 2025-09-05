@@ -18,7 +18,7 @@
 
 
 
-<p align="left">✨ Creating bugs since 2016 I miss you so much <br>📚 I'm currently learning How to move on from this fvcking pain<br>🎯 Goals: Balikan nya ko <br>🎲 Fun fact: umaasa /p>
+<p align="left">✨ Creating bugs since 2016 I miss you so much <br>📚 I'm currently learning How to move on from this fvcking pain<br>🎯 Goals: Balikan nya ko <br>🎲 Fun fact: umaasa </p>
 
 ###
 
