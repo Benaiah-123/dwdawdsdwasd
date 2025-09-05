@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 <p> haha hindi naman masakit gagi haha eto lang naman ako sana hindi nalang ako nabuhai haha gagi okay lang talaga gege</p>
-###
+
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
