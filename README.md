@@ -18,10 +18,3 @@
 
 <h2 align="left">I code with</h2>
 
-###
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
