@@ -16,9 +16,9 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+<p align="left">✨ Creating bugs since 2016 I miss you so much <br>📚 I'm currently learning How to move on from this fvcking pain<br>🎯 Goals: Balikan nya ko <br>🎲 Fun fact: umaasa/p>
 
 ###
 
