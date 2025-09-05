@@ -1,4 +1,4 @@
-# Sinaktan mo Ginago moko haha I love you.
+# Sinaktan mo g1n@g0 moko haha I love you.
 
 <h1 align="left">Hey Welcome to my guys 👋 What's up?</h1>
 
